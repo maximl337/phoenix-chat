@@ -1,0 +1,9 @@
+{
+  "name": "phoenix-chat",
+  "version": "0.0.1",
+  "description": "Real time chat socket.io, node, express",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.3.5"
+  }
+}
